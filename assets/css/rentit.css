@@ -1,8 +1,4 @@
-body{
-    background-color: slategray;
-    @media (min-width: 1024px) {
-        section .text-gray-600 body-font{
-            background: url("assests/img/design.png") top center;
-        }
-      }
-}
+body {
+    background-image: url('assets/img/design.png');
+    background-color: lightslategrey;
+  }
